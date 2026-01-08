@@ -28,6 +28,15 @@ The system is controlled through a **custom Android application** built with Kod
 
 ## ⚙️ System Architecture
 **Control Flow:**
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Iyanuoluwa007/zetabot/main/Screenshot%202026-01-08%20233002.png" 
+    alt="ZetaBot System Architecture"
+    width="500"
+  />
+</p>
+
 - Android App → Bluetooth → ESP32-CAM  
 - ESP32-CAM → Motor Driver (movement)  
 - ESP32-CAM → Arduino Nano (arm & LCD)  
@@ -44,7 +53,7 @@ The system is controlled through a **custom Android application** built with Kod
 - 12V DC Geared Motors (Tank Wheels)
 - 16×2 I2C LCD Display
 - 18650 Lithium Batteries (3S & 2S)
-- XL6019 DC-DC Boost Converter
+- XL6019 DC - DC Boost Converter
 - Solar Panel (5.5V, optional)
 - Android Smartphone (Controller)
 
@@ -88,10 +97,6 @@ The Android app is divided into two sections:
 
 ## 🧪 Results
 
-
-::contentReference[oaicite:1]{index=1}
-
-
 ✔ Stable movement and arm manipulation  
 ✔ Reliable Bluetooth communication  
 ✔ Clear live video stream over local Wi-Fi  
@@ -119,11 +124,11 @@ The Android app is divided into two sections:
 
 ## 🔮 Future Improvements
 
-- Full internet-based control (IoT)
+- Full internet based control (IoT)
 - Autonomous navigation (SLAM)
 - Object detection using computer vision
 - Stronger servos & metal arm structure
-- Cloud-based monitoring dashboard
+- Cloud based monitoring dashboard
 
 ---
 
@@ -147,15 +152,14 @@ Landmark University, Nigeria
 
 **Iyanuoluwa Enoch Oke**  
 Robotics & AI Engineer  
-📧 Email: *(add if you want)*  
-🔗 GitHub / LinkedIn: *(add links)*  
+📧 Email: [oke.iyanuoluwa12@gmail.com](mailto:oke.iyanuoluwa12@gmail.com)
+🔗 LinkedIn: [Iyanuoluwa Enoch Oke](https://www.linkedin.com/in/iyanuoluwa-enoch-oke/)
 
 ---
 
 ## 📜 License
 
-This project is released for **educational and research purposes**.  
-Feel free to fork, modify, and build upon it with attribution.
+Permission is granted to use, modify, and build upon this work for academic and research purposes, provided appropriate attribution is given.
 
 ---
 
