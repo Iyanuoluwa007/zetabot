@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Iyanuoluwa007/zetabot/blob/main/Building/20210815_173936_01_saved.jpg?raw=true" alt="ZetaBot Robot" width="380"/>
+</p>
+
 # 🤖 ZetaBot  
 ### Mobile Control Robotic Arm on Robotic Tank Wheel
 
