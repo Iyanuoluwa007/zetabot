@@ -168,3 +168,21 @@ Permission is granted to use, modify, and build upon this work for academic and 
 ---
 
 ⭐ *If you like this project, consider giving it a star!*  
+
+
+---
+
+## 🖼️ Project Gallery
+
+<p align="center">
+  <img src="https://github.com/Iyanuoluwa007/zetabot/blob/main/Building/20210815_173936_01_saved.jpg?raw=true" width="260"/>
+  <img src="https://github.com/Iyanuoluwa007/zetabot/blob/main/Building/20210815_181042_01_saved.jpg?raw=true" width="260"/>
+  <img src="https://github.com/Iyanuoluwa007/zetabot/blob/main/Building/20210815_181103_01_saved.jpg?raw=true" width="260"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Iyanuoluwa007/zetabot/blob/main/Building/20210815_181203_01_saved.jpg?raw=true" width="260"/>
+  <img src="https://github.com/Iyanuoluwa007/zetabot/blob/main/Building/20210815_181349_01_saved.jpg?raw=true" width="260"/>
+  <img src="https://github.com/Iyanuoluwa007/zetabot/blob/main/Building/20210815_181430_01.jpg?raw=true" width="260"/>
+</p>
+
