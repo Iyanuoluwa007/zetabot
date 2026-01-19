@@ -186,3 +186,10 @@ Permission is granted to use, modify, and build upon this work for academic and 
   <img src="https://github.com/Iyanuoluwa007/zetabot/blob/main/Building/20210815_181430_01.jpg?raw=true" width="260"/>
 </p>
 
+
+### The app interface:
+<p align="center">
+  <img src="https://github.com/Iyanuoluwa007/zetabot/blob/main/Screenshot_20260117_002237.jpg?raw=true" width="520"/>
+  <img src="https://github.com/Iyanuoluwa007/zetabot/blob/main/Screenshot_20260117_002242.jpg?raw=true" width="260"/>
+</p>
+
