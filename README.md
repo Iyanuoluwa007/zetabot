@@ -161,11 +161,17 @@ Robotics & AI Engineer
 
 ---
 
-## 📜 License
+## 📖 Citation & DOI
 
-Permission is granted to use, modify, and build upon this work for academic and research purposes, provided appropriate attribution is given.
+If you use this project in your research or work, please cite:
+
+Oke, I. E. (2026). *ZetaBot: Mobile robotic platform with live video streaming and 6-DOF arm* (Version 1.0.1) [Software]. Zenodo.  
+https://doi.org/10.5281/zenodo.18341042
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18341042.svg)](https://doi.org/10.5281/zenodo.18341042)
 
 ---
+
 
 ⭐ *If you like this project, consider giving it a star!*  
 
