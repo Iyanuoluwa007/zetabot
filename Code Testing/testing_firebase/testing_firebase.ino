@@ -1,12 +1,12 @@
-const char* ssid = "Netflix";
-const char* password = "123qwerty";
+const char* ssid = ".....";
+const char* password = "...........";
 
 #include "FirebaseESP32.h"
 FirebaseData firebaseData;
 
 
-String FIREBASE_HOST = "zeta-bot-default-rtdb.firebaseio.com";
-String FIREBASE_AUTH = "WhAQQpO9rOGHFWHLyCRUYfoWC8dXPDskkLJC0IaD";
+String FIREBASE_HOST = ".........................................";
+String FIREBASE_AUTH = ".........................................";
 
 Firebase.begin(FIREBASE_HOST, FIREBASE_AUTH);
 Firebase.reconnectWiFi(true);
